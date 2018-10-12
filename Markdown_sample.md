@@ -29,10 +29,26 @@ ___
 <!-- Blockquote -->
 > This is a quote
 
+> His words seemed to have struck some deep chord in his own nature.(Notice: Here left two spaces behind this paragraph, the next begins with the next paragraph!)  
+Had he spoken
+of himself, of himself as he was or wished to be? Stephen watched his face for some
+moments in silence. A cold sadness was there. He had spoken of himself, of his own
+loneliness which he feared.
+>
+> —_Of whom are you speaking?_ Stephen asked at length.
+>
+> Cranly did not answer.
+
 <!-- Links -->
 [Traversy Media](http://www.traversymedia.com)
-
 [Traversy Media](http://www.traversymedia.com "Traversy Media")
+
+Here's [a link to something else][another place].
+Here's [yet another link][another-link].
+And now back to [the first link][another place].
+
+[another place]: www.github.com
+[another-link]: www.google.com
 
 <!-- UL -->
 * Item 1
@@ -51,6 +67,14 @@ ___
 
 <!-- Images -->
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
+
+![The first father][First Father]
+
+![The second first father][Second Father]
+
+[First Father]: http://octodex.github.com/images/founding-father.jpg
+
+[Second Father]: http://octodex.github.com/images/foundingfather_v2.png
 
 <!-- Github Markdown -->
 
@@ -82,3 +106,8 @@ ___
 * [x] Task 1
 * [x] Task 2
 * [ ] Task 3
+
+
+Other source: 
+[GitHub Markdown Guides](https://guides.github.com/features/mastering-markdown/), 
+[Markdowntutorial](https://www.markdowntutorial.com)
